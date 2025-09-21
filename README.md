@@ -40,7 +40,7 @@ amigo-secreto/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/challenge-amigo-secreto.git
+git clone https://github.com/nathannysoares/challenge-amigo-secreto.git
 ```
 
 2. Abra o arquivo `index.html` no navegador
